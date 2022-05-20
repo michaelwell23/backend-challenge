@@ -1,3 +1,3 @@
 module.exports = {
-  url: process.env.API_URL,
+  url: 'https://api.github.com/users',
 };
