@@ -11,3 +11,9 @@ Este endpoint deve retornar os detalhes de um usuário do GitHub
 
 * GET - https://backend-challenge-api-node.herokuapp.com/api/users/{username}/repos
 Este endpoint deve retornar uma lista com todos os repositórios de usuários
+
+## TEST
+```
+  npm run test
+  yarn test
+```
